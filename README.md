@@ -55,6 +55,7 @@ rogerio.oliveira@mackenzie.br
 **4** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > [Exercício extra](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ex_regressao.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ex_regressao_solucao.ipynb)
 
 > [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb) 
 
