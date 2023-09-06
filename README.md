@@ -45,7 +45,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios II](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Pandas_II_Exerc.ipynb) *questionário no Moodle*
 
+<!--
 > [Aula Resumo Pandas](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/Aula_Resumo_Pandas.ipynb)
+-->
 
 > [Shared 7G](https://colab.research.google.com/drive/1u5jD3KHAxU2mac4ADxLk0EVOqQd0kP6W?usp=sharing) | [Shared 7N](https://colab.research.google.com/drive/1cP6I2aWkWE0o7UdqA_gJf3EqUlS_C1h9?usp=sharing)
 
