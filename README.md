@@ -66,11 +66,9 @@ rogerio.oliveira@mackenzie.br
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb)
 
 <br>
-<br>
 
-[Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/Projeto.ipynb)
+[Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/Projeto.ipynb) *Veja aqui orientação sobre o projeto da disciplina*.
 
-<br>
 <br>
 
 **6** [**Métricas de Classificação e K-Vizinhos mais Próximos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
