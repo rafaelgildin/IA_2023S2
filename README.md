@@ -57,13 +57,15 @@ rogerio.oliveira@mackenzie.br
 > [Exercício extra](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ex_regressao.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ex_regressao_solucao.ipynb)
 
-> [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb) 
+> [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
+| [**Solução**](https://github.com/Rogerio-mack/IA_2023S2/tree/main/Solucao_Exercicios_Selecionados)
 
 **5** [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
 > [Extra](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/Extra_Logistic.ipynb)
 
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb)
+| [**Solução**](https://github.com/Rogerio-mack/IA_2023S2/tree/main/Solucao_Exercicios_Selecionados)
 
 <br>
 
