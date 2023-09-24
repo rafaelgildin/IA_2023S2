@@ -124,9 +124,9 @@ rogerio.oliveira@mackenzie.br
 
 ## Critério de Avaliação
 
-* N1 = .6 Atividade Avaliativa 1 + .4 Atividades 1  
+* N1 = .7 Atividade Avaliativa 1 + .3 Atividades 1 (*corrigido, conforme o plano de ensino apresentado*) 
 
-* N2 = .6 Atividade Avaliativa 2 + .4 Atividades 2
+* N2 = .7 Atividade Avaliativa 2 + .3 Atividades 2
 
 * MI = .5 MI1 + .5 MI2 + partic Avalia (=até 0.5) + partic Aulas (=até 0.5)
 
