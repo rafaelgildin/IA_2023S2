@@ -75,7 +75,9 @@ rogerio.oliveira@mackenzie.br
 
 **6** [**Métricas de Classificação e K-Vizinhos mais Próximos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
-> [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb) *Para o exercício do Moodle não empregue conjuntos de treinamento e teste, mas você deve desenvolver isso durante a aula!*
+> [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
+| [**Solução**](https://github.com/Rogerio-mack/IA_2023S2/tree/main/Solucao_Exercicios_Selecionados)
+ *Para o exercício do Moodle não empregue conjuntos de treinamento e teste, mas você deve desenvolver isso durante a aula!*
 
 **7** [**Árvores de Decisão**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
