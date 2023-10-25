@@ -83,7 +83,11 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
 
-**8** Redes Neurais
+**8** [Kmédias](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) *Primeira parte do eBook*
+
+> [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb) (*Solução no Moodle*)
+
+**9** Redes Neurais
 
 > [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
 
@@ -95,15 +99,11 @@ rogerio.oliveira@mackenzie.br
 
 > [Artigo Acuracidade, Precisão, Recall e F1](https://pieriantraining.com/confusion-matrix-with-scikit-learn-and-python/)
 
-**9** [Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb) ***(Conteúdo Opcional)***
+**10** [Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb) ***(Conteúdo Opcional)***
 
 > [Método Gradiente](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/perceptron_gradiente.ipynb)
 
 > [**exemplo iris** Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
-
-**10** [Kmédias](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) *Primeira parte do eBook*
-
-> [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb) (*Solução no Moodle*) 
 
 **11** [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) *Segunda parte do eBook*
 
