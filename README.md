@@ -109,6 +109,8 @@ rogerio.oliveira@mackenzie.br
 
 > [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
 
+> [HCluster Lab](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ACD_T12_HCluster_Lab.ipynb)
+
 > [Lab Revisão Métricas de Classificação, Knn e Logística](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/IA_revisao_Metricas_ex.ipynb) (*Solução no Moodle*) 
 
 
