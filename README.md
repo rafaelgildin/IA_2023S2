@@ -93,9 +93,9 @@ rogerio.oliveira@mackenzie.br
 
 > [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
 
-> [**exemplo iris** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/mlp_iris.ipynb)
+> [**exemplo iris** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/mlp_iris.ipynb)
 
-> [**MLP Exercício**](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/mlp_penguins.ipynb)
+> [**MLP Exercício**](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/mlp_penguins.ipynb)
 
 > [Artigo Acuracidade, Precisão, Recall e F1](https://pieriantraining.com/confusion-matrix-with-scikit-learn-and-python/)
 
@@ -111,7 +111,7 @@ rogerio.oliveira@mackenzie.br
 
 > [HCluster Lab](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/ACD_T12_HCluster_Lab.ipynb)
 
-> [Lab Revisão Métricas de Classificação, Knn e Logística](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/IA_revisao_Metricas_ex.ipynb) (*Solução no Moodle*) 
+> [Lab Revisão Métricas de Classificação, Knn e Logística](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/IA_revisao_Metricas_ex.ipynb) (*Solução no Moodle*) 
 
 
 ---
